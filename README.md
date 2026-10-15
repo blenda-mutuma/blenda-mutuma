@@ -1,10 +1,10 @@
-# Hi, I'm Bree — Blenda G. Mutuma
+# Hi,  Blenda Mutuma
 
-**Business Analyst · Applied AI & Information Systems Researcher**
+**Business Analyst · Applied AI & Information Systems Researcher** 
 
 I help organizations transform data into strategic decisions.
 
-I started in a chemistry lab, where a result only counts if someone else can reproduce it. I still work that way. With a BSc in Industrial Chemistry (University of Nairobi) and an MS in Business Analytics (Quinnipiac University, 4.0 GPA), I bring scientific rigor to business questions in operations, market strategy, and business intelligence.
+I started in a chemistry lab, where a result only counts if someone else can reproduce it. I still work that way. I bring a unique perspective that combines scientific rigor, analytical thinking, and business strategy to solve complex problems. My experience spans data analytics, business intelligence, operations, market research, consulting, and project management across higher education, entrepreneurship, and industry.
 
 Beyond industry, I'm a published researcher studying how artificial intelligence is reshaping work, skills, and leadership.
 
@@ -36,4 +36,4 @@ Beyond industry, I'm a published researcher studying how artificial intelligence
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/blenda-mutuma/) · Open to Business Analyst roles, remote or relocation
+[LinkedIn](https://www.linkedin.com/in/blenda-mutuma/) · Open to Business Analyst and related roles, remote or relocation
